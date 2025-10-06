@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 468a46d0ae32c3544b7d98094e6448a9, type: 3}
+  m_Name: AddressableAssetSettings
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetSettings
+  m_DefaultGroup: 704930197e80d804fbfe149118341d7c
+  m_currentHash:
+    serializedVersion: 2
+    Hash: a69de465376814bc93dd21556451de96
+  m_OptimizeCatalogSize: 0
+  m_BuildRemoteCatalog: 0
+  m_CatalogRequestsTimeout: 0
+  m_DisableCatalogUpdateOnStart: 0
+  m_InternalIdNamingMode: 0
+  m_InternalBundleIdMode: 1
+  m_AssetLoadMode: 0
+  m_BundledAssetProviderType:
+    m_AssemblyName: 
+    m_ClassName: 
+  m_AssetBundleProviderType:
+    m_AssemblyName: 
+    m_ClassName: 
+  m_IgnoreUnsupportedFilesInBuild: 0
+  m_UniqueBundleIds: 0
+  m_EnableJsonCatalog: 0
+  m_NonRecursiveBuilding: 1
+  m_AllowNestedBundleFolders: 0
+  m_CCDEnabled: 0
+  m_maxConcurrentWebRequests: 3
+  m_UseUWRForLocalBundles: 0
+  m_BundleTimeout: 0
+  m_BundleRetryCount: 0
+  m_BundleRedirectLimit: -1
+  m_SharedBundleSettings: 0
+  m_SharedBundleSettingsCustomGroupIndex: 0
+  m_ContiguousBundles: 1
+  m_StripUnityVersionFromBundleBuild: 0
+  m_DisableVisibleSubAssetRepresentations: 0
+  m_BuiltInBundleNaming: 0
+  mBuiltInBundleCustomNaming: 
+  m_MonoScriptBundleNaming: 0
+  m_CheckForContentUpdateRestrictionsOption: 0
+  m_MonoScriptBundleCustomNaming: 
+  m_RemoteCatalogBuildPath:
+    m_Id: 
+  m_RemoteCatalogLoadPath:
+    m_Id: 
+  m_ContentStateBuildPathProfileVariableName: 
+  m_CustomContentStateBuildPath: 
+  m_ContentStateBuildPath: 
+  m_BuildAddressablesWithPlayerBuild: 0
+  m_overridePlayerVersion: '[UnityEditor.PlayerSettings.bundleVersion]'
+  m_GroupAssets:
+  - {fileID: 11400000, guid: 59a6ab2d71fc5c343b08410fe142aa9b, type: 2}
+  m_BuildSettings:
+    m_LogResourceManagerExceptions: 1
+    m_BundleBuildPath: Temp/com.unity.addressables/AssetBundles
+  m_ProfileSettings:
+    m_Profiles:
+    - m_InheritedParent: 
+      m_Id: 32b58ab8789f1854eb3692bf6ff7c2f2
+      m_ProfileName: Default
+      m_Values:
+      - m_Id: 1ea7dd038ffc87d4aad7c5a3a9a88265
+        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
+      - m_Id: 1ee2d0baaa9a79040b9c4574d25db9d2
+        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+      - m_Id: 64f16cdd6daff4a47a7af18787596dc0
+        m_Value: <undefined>
+      - m_Id: 7cf4022a5adbeae49a81b74ad355c3da
+        m_Value: 'ServerData/[BuildTarget]'
+      - m_Id: bf75c845cf7f62542921f01f53f83412
+        m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
+    m_ProfileEntryNames:
+    - m_Id: 1ea7dd038ffc87d4aad7c5a3a9a88265
+      m_Name: Local.LoadPath
+      m_InlineUsage: 0
+    - m_Id: 1ee2d0baaa9a79040b9c4574d25db9d2
+      m_Name: Local.BuildPath
+      m_InlineUsage: 0
+    - m_Id: 64f16cdd6daff4a47a7af18787596dc0
+      m_Name: Remote.LoadPath
+      m_InlineUsage: 0
+    - m_Id: 7cf4022a5adbeae49a81b74ad355c3da
+      m_Name: Remote.BuildPath
+      m_InlineUsage: 0
+    - m_Id: bf75c845cf7f62542921f01f53f83412
+      m_Name: BuildTarget
+      m_InlineUsage: 0
+    m_ProfileVersion: 1
+  m_LabelTable:
+    m_LabelNames:
+    - default
+  m_SchemaTemplates: []
+  m_GroupTemplateObjects:
+  - {fileID: 11400000, guid: 42fe068bda8c6364495291dc30e4fbb0, type: 2}
+  m_InitializationObjects: []
+  m_CertificateHandlerType:
+    m_AssemblyName: 
+    m_ClassName: 
+  m_ActivePlayerDataBuilderIndex: 2
+  m_DataBuilders:
+  - {fileID: 11400000, guid: e6effe2fe47c11c4b9825bcfd906f4f7, type: 2}
+  - {fileID: 11400000, guid: 87a1db78bfcc40f40b6430ce48b24847, type: 2}
+  - {fileID: 11400000, guid: f284e9e3bf8dfce48b97641d222464d7, type: 2}
+  m_ActiveProfileId: 32b58ab8789f1854eb3692bf6ff7c2f2

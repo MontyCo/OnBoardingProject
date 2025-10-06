@@ -314,13 +314,6 @@
       },
       "url": "https://packages.unity.com"
     },
-    "com.vavilichev.lukomor": {
-      "version": "https://github.com/vavilichev/Lukomor.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "3d870377b80c21e0c34a886e30dc4da86a600cc7"
-    },
     "com.unity.modules.accessibility": {
       "version": "1.0.0",
       "depth": 0,

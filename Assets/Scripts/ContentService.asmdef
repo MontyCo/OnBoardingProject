@@ -1,0 +1,19 @@
+{
+    "name": "ContentService",
+    "rootNamespace": "",
+    "references": [
+        "Unity.Addressables",
+        "Unity.ResourceManager",
+        "UnityEngine.ResourceManagement.AsyncOperations",
+        "ArchitectCore"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
