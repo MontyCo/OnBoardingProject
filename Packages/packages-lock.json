@@ -7,6 +7,13 @@
       "dependencies": {},
       "hash": "a7c6b49a0141a5bff9b1983e38137522ef61977d"
     },
+    "com.ksgames.core.architect": {
+      "version": "git@github.com:KlondikeSoftware/ArchitectCore.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "c5f40f40cf415ad1d9ce665da2a9f0ec33017114"
+    },
     "com.unity.2d.animation": {
       "version": "12.0.2",
       "depth": 0,
@@ -140,7 +147,7 @@
       "dependencies": {}
     },
     "com.unity.ide.rider": {
-      "version": "3.0.37",
+      "version": "3.0.38",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -264,7 +271,7 @@
       }
     },
     "com.unity.test-framework": {
-      "version": "1.5.1",
+      "version": "1.6.0",
       "depth": 0,
       "source": "builtin",
       "dependencies": {
